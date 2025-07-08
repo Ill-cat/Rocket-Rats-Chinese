@@ -1,0 +1,587 @@
+{
+	// - - - - - - - - - - - - - Setup - - - - - - - - - - - - - //
+	"": "",
+	"language_name": "简体中文",
+	
+	// - - - - - - - - - - - - - Menu - - - - - - - - - - - - - //
+	"on": "开启",
+	"off": "关闭",
+	
+	"back_button": "返回",
+	"confirm_ask": "确认?",
+	
+	"demo_lock": "在Demo版本中锁定",
+
+	//main
+	"options_button": "选项",
+	"credits_button": "制作人员",
+	"discord_button": "Discord",
+	"wishlist_button": "帮助游戏登上Steam愿望单!",
+
+	//options
+	"game_button": "游戏",
+	"audio_button": "音量",
+	"video_button": "视频",
+	"controls_button": "输入",
+	
+	//Game
+	"pause_out_of_focus_panel": "切换页面时自动暂停",
+	"stopwatch_panel": "速通计时器",
+	"ammo_ui_limit_panel": "弹药UI上限",
+	"ammo_ui_limit_none": "无限",
+	
+	//audio
+	"general_panel": "通用",
+	"music_panel": "音乐",
+	"sounds_panel": "音效",
+
+	//video
+	"graphics_button": "图形",
+	"language_button": "语言",
+	"screen_button": "屏幕",
+	
+	//graphics
+	"pixel_perfect_panel": "完美像素",
+	"screenshake_panel": "屏幕抖动",
+	"aberration_panel": "色差",
+	"damage_number_panel": "显示伤害数字",
+	"enemy_health_bar_panel": "显示敌人血条",
+	"enemy_debuffs_panel": "显示敌人减益效果",
+
+	//screen
+	"resolution_panel": "屏幕分辨率",
+	"resize_button": "调整尺寸",
+	"fullscreen_button": "全屏模式",
+	
+	//demo/buy
+	"wishlist_warn": "非常感谢您试玩我们的Demo!\n如果您喜欢这款游戏, 请考虑将其加入Steam愿望单.\n即使您最终没有购买游戏,\n愿望单对我们帮助巨大 <3",
+	"wishlist_cta": "加入愿望单",
+	
+	"buy_warn": "非常感谢您试玩我们的Demo!\n如果您喜欢, 请考虑购买完整版解锁全部\n5个角色, 30波次和无尽模式!\n即使您最终没有购买游戏,\n我们也非常感谢您的游玩 <3",
+	"buy_cta": "购买完整版",
+	
+	"play_demo_button": "试玩Demo",
+	"buy_button": "购买完整版",
+
+	"payment_success": "购买成功!",
+	"payment_wait": "等待中...",
+	"payment_fail": "支付失败",
+	
+	// - - - - - - - - - - - - - Main Menu - - - - - - - - - - - - - //
+	"play_button": "游玩",
+	"exit_button": "退出",
+	
+	"press_start": "按 'Enter' 开始",
+	
+	//play
+	"singleplayer_button": "单人游戏",
+	"multiplayer_button": "多人游戏",
+
+	// - - - - - - - - - - - - - Pause Menu - - - - - - - - - - - - - //
+	"resume_button": "继续",
+	"collection_button": "已收集的升级项",
+	"retry_button": "重试",
+	"restart_button": "重新开始",
+	"lobby_button": "返回大厅",
+	"mainmenu_button": "主菜单",
+
+	// - - - - - - - - - - - - - Inputs - - - - - - - - - - - - - //
+	"show_stats_guide": "按下 {0} 显示数据",
+	
+	"inputs_panel": "控制",
+	"inputs_player": "玩家",
+	"inputs_reset_button": "重置控制",
+	
+	//map
+	"input_up": "向上移动",
+	"input_down": "向下移动",
+	"input_left": "向左移动",
+	"input_right": "向右移动",
+	
+	"input_stats": "统计可见性",
+	"input_interact": "交互",
+	"input_inspect": "检查升级",
+	
+	//guide
+	"controls_guide_select": "选择",
+	"controls_guide_enter": "进入",
+	"controls_guide_back": "返回",
+	
+	//switch
+	"controls_switch_gamepad": "要切换到手柄请按 START",
+	"controls_switch_keyboard": "要切换到键盘请按 ENTER",
+	
+	// - - - - - - - - - - - - - Credits - - - - - - - - - - - - - //
+	"credit_gamedesigner": "游戏设计师",
+	"credit_artist": "美术",
+	"credit_programmer": "程序员",
+	"credit_leveldesigner": "关卡设计师",
+	"credit_musiccomposer": "音乐作曲",
+	"credit_sounddesigner": "音效设计",
+	"credit_specialthanks": "特别感谢",
+	
+	// - - - - - - - - - - - - - Game - - - - - - - - - - - - - //
+	"wave": "波次",
+	
+	"run_won": "你赢了!",
+	"run_lost": "游戏结束",
+	
+	"new_record": "新纪录!",
+	
+	"completion_time": "通关时间",
+	"total_time": "总游戏时长",
+	
+	"waves_survived": "存活波次",
+	"enemies_killed": "击败敌人",
+	"coins_gathered": "收集奶酪",
+	
+	"restart_run": "重新开始?",
+	
+	"dodge": "闪避",
+	
+	// - - - - - - - - - - - - - Discord - - - - - - - - - - - - - //
+	"discord_mainmenu": "准备起飞",
+	"discord_lobby": "测试不同构筑",
+	"discord_game": "刷奶酪中 - 波次: ",
+	
+	// - - - - - - - - - - - - - Characters - - - - - - - - - - - - - //
+	//White
+	"white_name": "Mr. Lucky",
+	"white_unlock": "已解锁",
+	"white_unlock_modless": "已解锁",
+	
+	"white_tup_01": "- 增加[stats_uo]刷新次数[] {0}",
+	"white_tup_02": "- 游戏开始时获得一个[rainbow]升级[]",
+	"white_tup_03": "- 增加[stats_dm]子弹伤害[] {0}",
+	
+	"white_tup_03_01_01": "- 每次[stats_uo]刷新[]时,\n有{0}概率获得额外一次刷新",
+	"white_tup_03_02_01": "- 增加敌人掉落的[money]奶酪[]数量 {0}",
+	"white_tup_03_03_01": "- 在第{0}波时,\n获得一个额外[rainbow]升级[]",
+	
+	"white_tup_03_01_02": "- 每次[stats_uo]刷新[]时, [stats_dm]子弹伤害[]\n和[stats_rt]装弹速度[]增加{0}",
+	"white_tup_03_02_02": "- 增加[stats_uo]升级选项[]和\n[stats_uo]刷新次数[] {0}",
+	"white_tup_03_03_02": "- 在第{0}波时,\n获得一个额外[rainbow]升级[]",
+	
+	"white_tup_03_01_02_01_01": "- 在[stats]前[]{1}波中\n你有{0}额外[stats_uo]刷新次数[]",
+	"white_tup_03_01_02_02_01": "- 在[stats]后[]{1}波中\n你有{0}额外[stats_uo]刷新次数[]",
+	
+	"white_tup_03_02_03": "- 每{0}波, 随机增加你的\n[stats_dm]子弹伤害[], [stats_fr]射速[], [stats_rt]装弹速度[],\n[stats_am]弹药[]或[stats_cd]暴击伤害[] {1}",
+	
+	"white_tup_03_03_02_01_01": "- 获得[rainbow]稀有[]升级的概率翻倍",
+	"white_tup_03_03_02_02_01": "- 每有一个[rainbow]稀有升级[]\n增加[stats_cd]暴击伤害[] {0}",
+	
+	//"white_tup_03_03_02_02_01": "- 每有一个升级\n增加[stats_dm]子弹伤害[] {0e",
+	
+	//White Demo
+	"demo_white_tup_01": "- 增加{0}次[stats_uo]刷新次数[]",
+	"demo_white_tup_02": "- 游戏开始时获得一次[rainbow]强化[]",
+	"demo_white_tup_03": "- 增加[stats_dm]子弹伤害[] {0}点",
+	
+	"demo_white_tup_03_01_01": "- 每拥有一个强化,[stats_dm]子弹伤害[]增加{0}点",
+	"demo_white_tup_03_02_01": "- 敌人掉落[money]奶酪[]数量增加{0}",
+	"demo_white_tup_03_03_01": "- 每次[stats_uo]刷新[]时,[stats_dm]子弹伤害[]与[stats_rt]装填速度[]增加{0}",
+	
+	"demo_white_tup_03_01_02": "- 在第{0}波次时,获得一次额外[rainbow]强化[]",
+	"demo_white_tup_03_02_02": "- 每{0}波次,随机增加[stats_dm]子弹伤害[],[stats_fr]射速[],[stats_rt]装填速度[],[stats_am]弹药[]或[stats_cd]暴击伤害[] {1}点",
+	"demo_white_tup_03_03_02": "- 增加{0}次[stats_uo]刷新次数[]",
+	
+	"demo_white_tup_03_01_02_01_01": "",
+	"demo_white_tup_03_01_02_02_01": "",	
+	
+	"demo_white_tup_03_02_02_01_01": "",
+	"demo_white_tup_03_02_02_02_01": "",
+	
+	"demo_white_tup_03_03_02_01_01": "",
+	"demo_white_tup_03_03_02_02_01": "",
+	
+	//Nerd
+	"nerd_name": "Nerdy",
+	"nerd_unlock": "在单次游戏中达到\n[star]星辰盟友VII[]强化",
+	"nerd_unlock_modless": "在单次游戏中达到[star]星辰盟友VII[]强化",
+	
+	"nerd_tup_01": "- 游戏开始时获得[stats_am]星辰盟友[]强化\n[stats]'星辰强化出现概率提高'[]",
+	"nerd_tup_02": "- 你的[star]星辰射击[]伤害增加{0}",
+	
+	"nerd_tup_02_01_01": "- 增加[stats_cc]暴击几率[]{0}",
+	"nerd_tup_02_01_02": "- 增加[stats_cc]暴击几率[]{0}\n- 增加[stats_cd]暴击伤害[]{1}",
+	
+	"nerd_tup_02_02_01": "- 你的[star]星辰射击[]伤害增加{0}\n- 你的[star]星辰盟友[]开火速率{1}",
+	"nerd_tup_02_02_02": "- 你的[star]星辰射击[]子弹速度降低{0}",
+	
+	"nerd_tup_02_01_02_01_01": "- 你的[star]星辰盟友[]开火速率{0}",
+	"nerd_tup_02_01_02_02_01": "- 你的[star]星辰盟友[]额外射击{0}次",
+	
+	"nerd_tup_02_02_02_01_01": "- 你的[star]星辰射击[]呈波浪形轨迹移动",
+	"nerd_tup_02_02_02_02_01": "- 你的[star]星辰射击[]伤害增加{0}",
+	
+	"nerd_tup_02_01_02_01_02": "- 初始获得{0}个额外[star]星辰盟友[]",
+	"nerd_tup_02_02_02_02_02": "- 你的[star]星辰射击[]提前停止\n并爆炸造成{0}额外伤害",
+	
+	//Soldier
+	"soldier_name": "Soldier",
+	"soldier_unlock": "在单次游戏中达到\n[stats_am]弹药VII[]强化",
+	"soldier_unlock_modless": "在单次游戏中达到[stats_am]弹药VII[]强化",
+	
+	"soldier_tup_01": "- 游戏开始时获得[stats_am]弹药[]强化\n[stats]'弹药强化出现概率提高'[]",
+	"soldier_tup_02": "- 每{1}波次\n获得{0}点额外[stats_am]弹药[]",
+	
+	"soldier_tup_02_01_01": "- 增加[stats_sn]射击数量[]{0}\n- 增加[stats_am]弹药[]{1}",
+	"soldier_tup_02_02_01": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_am]弹药[]{1}",
+	"soldier_tup_02_03_01": "- 增加[stats_dm]子弹伤害[]{0}\n- 增加[stats_am]弹药[]{1}",
+	
+	"soldier_tup_02_01_02": "- 增加[stats_am]弹药[]{0}",
+	"soldier_tup_02_02_02": "- 增加[stats_rt]装填速度[]{0}",
+	"soldier_tup_02_03_02": "- 增加[stats_pp]子弹穿透[]{0}",
+	
+	"soldier_tup_02_01_03": "- 每拥有{0}点[stats_am]弹药[]\n增加[stats_sn]射击数量[]{1}",
+	"soldier_tup_02_02_03": "- 每拥有{0}点[stats_am]弹药[]\n增加[stats_fr]开火速率[]{1}",
+	"soldier_tup_02_03_03": "- 每拥有{0}点[stats_am]弹药[]\n增加[stats_cc]暴击几率[]{1}",
+	
+	"soldier_tup_02_01_04": "- 增加[stats_sn]射击数量[]{0}\n- 增加[stats_am]弹药[]{1}\n- 每击杀{2}个[enemy]敌人[]\n最近的{3}个[enemy]敌人会死亡[]",
+	"soldier_tup_02_02_04": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}\n- 每击杀{2}个[enemy]敌人[]\n最近的{3}个[enemy]敌人会死亡[]",
+	"soldier_tup_02_03_04": "- 增加[stats_dm]子弹伤害[]相当于[stats_am]弹药[]的{0}\n- 增加[stats_rt]装填速度[]{1}\n- 每击杀{2}个[enemy]敌人[]\n最近的{3}个[enemy]敌人会死亡[]",
+	
+	//Doctor
+	"doctor_name": "Doctor",
+	"doctor_unlock": "在单次游戏中达到\n[poison]毒药VII[]或[curse]诅咒VII[]强化",
+	"doctor_unlock_modless": "在单次游戏中达到[poison]毒药VII[]或[curse]诅咒VII[]强化",
+	
+	"doctor_tup_01_01": "- 游戏开始时获得[poison]毒药[]强化\n[stats]'毒药强化出现概率提高'[]",
+	"doctor_tup_02_01": "- 游戏开始时获得[curse]诅咒[]强化\n[stats]'诅咒强化出现概率提高'[]",
+	
+	"doctor_tup_01_02": "- 你的[poison]毒药伤害[]增加{0}\n- 你的[poison]毒药速度[]增加{1}",
+	"doctor_tup_02_02": "- 对[curse]被诅咒敌人[]的[stats_dc]闪避几率[]增加{0}",
+	
+	"doctor_tup_01_03": "- 你的[poison]中毒几率[]增加{0}\n- 增加[stats_fr]开火速率[]{1}",
+	"doctor_tup_02_03": "- 你的[curse]诅咒几率[]增加{0}\n- 增加[stats_fr]开火速率[]{1}",
+	
+	"doctor_tup_01_03_01_01": "- 每{1}波次\n增加{0}点[poison]毒药速度[]",
+	"doctor_tup_01_03_02_01": "- 每{1}波次\n增加{0}点[poison]毒药伤害[]",
+	"doctor_tup_02_03_01_01": "- 每{1}波次\n增加{0}点[curse]诅咒速度[]",
+	"doctor_tup_02_03_02_01": "- 每{1}波次\n[curse]被诅咒敌人[]受到{0}点额外伤害",
+	
+	"doctor_tup_01_03_01_02": "- 生命值低于{0}的[poison]中毒敌人[]会[enemy]立即死亡[]",
+	"doctor_tup_01_03_02_02": "- [poison]中毒敌人[]移动速度降低{0}",
+	"doctor_tup_02_03_01_02": "- 你的[curse]诅咒速度[]增加{0}",
+	"doctor_tup_02_03_02_02": "- 每[enemy]击杀[]一个[curse]被诅咒敌人[]时\n有{0}几率对另一个随机[enemy]敌人[]施加[curse]诅咒[]",
+	
+	"doctor_tup_01_03_01_03": "- 你的[poison]中毒持续时间[]增加{0}",
+	"doctor_tup_01_03_02_03": "- 优先攻击[poison]未中毒敌人[]\n- 对[poison]中毒敌人[]的[stats_dc]闪避几率[]增加{0}",
+	"doctor_tup_02_03_01_03": "- 施加[curse]诅咒[]时还会[stun]眩晕[]敌人{0}秒",
+	"doctor_tup_02_03_02_03": "- 优先攻击[curse]被诅咒敌人[]",
+	
+	//Robot
+	"robot_name": "M1C3",
+	"robot_unlock": "在单次游戏中达到\n[arrow]箭矢VII[]强化",
+	"robot_unlock_modless": "在单次游戏中达到[arrow]箭矢VII[]强化",
+	
+	"robot_tup_01": "- 游戏开始时获得[lightning]箭矢[]强化\n[stats]'箭矢强化出现概率提高'[]",
+	"robot_tup_02": "- 你的[arrow]箭矢[]伤害增加{0}\n- 击杀[enemy]敌人[]有几率触发[arrow]召唤箭矢[]",
+	"robot_tup_03": "- 增加[stats_cc]暴击几率[]{0}",
+	
+	"robot_tup_03_01_01": "- 增加[stats_cd]暴击伤害[]{0}",
+	"robot_tup_03_02_01": "- 增加{0}点额外[stats_hp]生命值[]",
+	"robot_tup_03_03_01": "- 你的[arrow]箭矢[]伤害增加{0}",
+	
+	"robot_tup_03_01_02": "- 增加[stats_kb]击退效果[]{0}",
+	"robot_tup_03_02_02": "- 增加{0}点额外[stats_hp]生命值[]",
+	"robot_tup_03_03_02": "- 你的[arrow]箭矢[]的[stats_pp]穿透能力[]增加{0}",
+	
+	"robot_tup_03_01_03": "- [rainbow]齿轮强化[]出现概率提高\n- [rainbow]齿轮强化[]可在单次游戏中重复出现\n- 在第{0}波时[rainbow]齿轮强化[]会提供[green]额外升级[]",
+	"robot_tup_03_02_03": "- 将所有[stats_hp]生命值[]替换为[blue]金属生命[]\n- 每拥有[stats_hp]半颗金属生命[],\n增加{0}点[stats_dm]子弹伤害[]和[stats_pp]穿透能力[]",
+	"robot_tup_03_03_03": "- 停止移动{0}秒后\n增加{1}点[stats_fr]开火速率[]和{2}点[arrow]箭矢伤害[]提升",
+	
+	//"robot_tup_03_01_02_01_01": "- {0}波内无法获得[rainbow]强化[]\n之后{2}波内可获得{1}个[rainbow]强化[]",
+	
+	//Eletric
+	"eletric_name": "Mr. Shock",
+	"eletric_unlock": "在单次游戏中达到\n[lightning]闪电VII[]强化",
+	"eletric_unlock_modless": "在单次游戏中达到[lightning]闪电VII[]强化",
+	
+	"eletric_tup_01": "- 游戏开始时获得[lightning]闪电[]强化\n[stats]'闪电强化出现概率提高'[]",
+	"eletric_tup_02": "- 你的[lightning]闪电触发几率[]增加{0}",
+	
+	"eletric_tup_02_01_01": "- 每{0}[green]次[]命中[enemy]敌人[]\n增加{1}点[lightning]闪电伤害[]",
+	"eletric_tup_02_02_01": "- 你的[lightning]闪电伤害[]增加{0}",
+	
+	"eletric_tup_02_02_01_01_01": "- 你的[lightning]闪电[]范围伤害半径增加{0}",
+	"eletric_tup_02_02_01_02_01": "- 增加[stats_fr]开火速率[]{0}",
+
+	"eletric_tup_02_02_01_02_01_01_01": "- 你的[lightning]闪电[]还会[stun]眩晕[]敌人{0}秒",
+	"eletric_tup_02_02_01_02_01_02_01": "- 你的[lightning]闪电伤害[]增加{0}\n- 增加[stats_fr]开火速率[]{1}",
+	
+	"eletric_tup_02_02_01_02_01_02_02": "- 每{1}波次\n额外召唤{0}道[lightning]闪电[]",
+	
+	// - - - - - - - - - - - - - Main Upgrades - - - - - - - - - - - - - //
+	//General
+	"main_upgrades_offense": "攻击",
+	"main_upgrades_defense": "防御",
+	"main_upgrades_utility": "功能",
+	
+	"main_upgrades_max": "最高!",
+	
+	"hold_warn": "长按购买",
+	
+	//Upgrades
+	"main_upgrade_empty": "未装备升级项 :/",
+	
+	"main_upgrade_damage": "- 每级增加 [stats_dm]子弹伤害[] {0} ",
+	
+	"main_upgrade_critical": "- 每级增加[stats_cc]暴击率[] {0}\n- 每级增加[stats_cd]暴击伤害[] {1}",
+	
+	"main_upgrade_fire_rate": "- 每级增加[stats_fr]射速[] {0}\n- 每级增加[stats_rt]装弹速度[] {1}",
+	
+	"main_upgrade_health": "- 每级增加[stats_hp]生命值[] {0}",
+	
+	"main_upgrade_slow": "- 每级减缓[enemy]敌人[]速度 {0}",
+	
+	"main_upgrade_movement": "- 每级提升[stats_ms]移动速度[] {0}\n- 每级提升[stats_dc]闪避概率[] {1}",
+	
+	"main_upgrade_roll_options": "- 每级增加[stats_uo]升级选项[] {0}",
+	
+	"main_upgrade_roll": "- 每级增加[stats_uo]刷新次数[] {0}",
+	
+	"main_upgrade_rare": "- 获取[rainbow]稀有[]升级的概率翻倍",
+	
+	// - - - - - - - - - - - - - Upgrades - - - - - - - - - - - - - //
+	//Impact
+	"o_damage_upgrade_name": "冲击",
+	
+	"o_damage_upgrade_01_desc": "- 增加[stats_dm]子弹伤害[]{0}",
+	"o_damage_upgrade_02_desc": "- 增加[stats_dm]子弹伤害[]{0}",
+	"o_damage_upgrade_03_desc": "- 增加[stats_dm]子弹伤害[]{0}\n- 增加[stats_kb]击退效果[]{1}",
+	"o_damage_upgrade_04_desc": "- 增加[stats_pp]子弹穿透[]{0}",
+	"o_damage_upgrade_05_desc": "- 增加[stats_dm]子弹伤害[]{0}\n- 增加[stats_pp]子弹穿透[]{1}",
+	"o_damage_upgrade_06_desc": "- 增加[stats_sn]射击数量[]{0}\n- 将[stats_ss]射击散布[]改为角度散布",
+	"o_damage_upgrade_07_desc": "- 增加[stats_sn]射击数量[]{0}\n- 增加[stats_dm]子弹伤害[]{1}\n- 增加[stats_kb]击退效果[]{2}\n- 增加[stats_am]弹药[]{3}",
+	
+	//Rush
+	"o_fire_rate_upgrade_name": "疾速",
+	
+	"o_fire_rate_upgrade_01_desc": "- 增加[stats_fr]开火速率[]{0}",
+	"o_fire_rate_upgrade_02_desc": "- 增加[stats_rt]装填速度[]{0}",
+	"o_fire_rate_upgrade_03_desc": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}",
+	"o_fire_rate_upgrade_04_desc": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}",
+	"o_fire_rate_upgrade_05_desc": "- Increases [stats_fr]fire rate[] by {0}\n- Increases [stats_rt]reload speed[] by {1}",
+	"o_fire_rate_upgrade_06_desc": "- 装填后有{0}几率\n提升[stats_fr]开火速率[]{1}\n直到下次装填",
+	"o_fire_rate_upgrade_07_desc": "- 根据[stats_am]当前弹药[]量\n提升[stats_fr]开火速率[]{0}",
+	
+	//Critical
+	"o_critical_upgrade_name": "暴击",
+	
+	"o_critical_upgrade_01_desc": "- 增加[stats_cc]暴击几率[]{0}",
+	"o_critical_upgrade_02_desc": "- 增加[stats_cc]暴击几率[]{0}\n- 增加[stats_fr]开火速率[]{1}",
+	"o_critical_upgrade_03_desc": "- 增加[stats_cc]暴击几率[]{0}\n- 增加[stats_cd]暴击伤害[]{1}",
+	"o_critical_upgrade_04_desc": "- 增加[stats_cc]暴击几率[]{0}\n- 增加[stats_cd]暴击伤害[]{1}",
+	"o_critical_upgrade_05_desc": "- 当[stats_cc]暴击[]击杀[enemy]敌人[]时\n下次攻击的[stats_sn]射击数量[]增加{0}",
+	"o_critical_upgrade_06_desc": "- 增加[stats_cc]暴击几率[]{0}\n- 溢出的[stats_cc]暴击几率[]转化为[stats_cd]暴击伤害[]",
+	"o_critical_upgrade_07_desc": "- [stats_cc]暴击命中[]会使下次攻击\n增加{0}点额外[stats_cd]暴击伤害[]",
+	
+	//Ammo
+	"o_ammo_upgrade_name": "弹药",
+	
+	"o_ammo_upgrade_01_desc": "- 增加[stats_am]弹药[]{0}",
+	"o_ammo_upgrade_02_desc": "- 增加[stats_am]弹药[]{0}",
+	"o_ammo_upgrade_03_desc": "- 增加[stats_am]弹药[]{0}\n- 增加[stats_dm]子弹伤害[]{1}\n- 增加[stats_fr]开火速率[]{2}",
+	"o_ammo_upgrade_04_desc": "- 增加[stats_am]弹药[]{0}",
+	"o_ammo_upgrade_05_desc": "- 增加[stats_am]弹药[]{0}\n- 增加[stats_am]弹药[]{0}\n- 根据[stats_am]弹药[]数量提升[stats_dm]子弹伤害[]{1}\n[stats]'当前加成:{2}'[]",
+	"o_ammo_upgrade_06_desc": "- 增加[stats_sn]射击数量[]{0}",
+	"o_ammo_upgrade_07_desc": "- 每次[stats_sn]攻击[]仅消耗{0}点弹药",
+	
+	//Health
+	"o_health_upgrade_name": "生命",
+	
+	"o_health_upgrade_01_desc": "- 增加{0}点额外[stats_hp]生命值[]",
+	"o_health_upgrade_02_desc": "- 增加{0}点额外[stats_hp]生命值[]",
+	"o_health_upgrade_03_desc": "- 增加{0}点额外[stats_hp]生命值[]",
+	"o_health_upgrade_04_desc": "- 根据当前[stats_hp]生命值[]提升[stats_dm]子弹伤害[]和[stats_fr]开火速率[]{0}\n[stats]'当前增益:{1}'[]",
+	"o_health_upgrade_05_desc": "- 每击杀{0}[green]个[][enemy]敌人[]恢复{1}点[stats_hp]生命值[]\n- 每次恢复后,下次恢复需多击杀{3}个[enemy]敌人[]\n[stats]'下次恢复需击杀:{2}个敌人'[]",
+	
+	//Movement
+	"o_movement_upgrade_name": "移动",
+	
+	"o_movement_upgrade_01_desc": "- 增加[stats_ms]移动速度[]{0}",
+	"o_movement_upgrade_02_desc": "- 增加[stats_ms]移动速度[]{0}",
+	"o_movement_upgrade_03_desc": "- 增加[stats_dc]闪避几率[]{1}",
+	"o_movement_upgrade_04_desc": "- 增加[stats_in]无敌时间[]{0}\n- 受击时对敌人[stats_kb]击退效果[]增加{1}",
+	"o_movement_upgrade_05_desc": "- 无敌状态下获得以下加成:\n[stats_fr]开火速率[]{1}\n[stats_fr]开火速率[]{1}\n[stats_cc]暴击几率[]{2}\n[stats_rt]装填速度[]{3}",
+	
+	//Poison
+	"o_poison_upgrade_name": "毒药",
+	
+	"o_poison_upgrade_01_desc": "- 你的攻击有{0}几率施加[poison]中毒[]效果",
+	"o_poison_upgrade_02_desc": "- 你的[poison]中毒几率[]增加{0}\n- 你的[poison]中毒伤害[]增加{1}",
+	"o_poison_upgrade_03_desc": "- 你的[poison]中毒几率[]增加{0}\n- 你的[poison]中毒持续时间[]增加{1}",
+	"o_poison_upgrade_04_desc": "- [poison]中毒[]的敌人移动速度降低{0}",
+	"o_poison_upgrade_05_desc": "- 你的[poison]中毒传播速度[]增加{0}",
+	"o_poison_upgrade_06_desc": "- 你的[poison]中毒伤害[]增加{0}\n- 你的[poison]中毒传播速度[]增加{1}",
+	"o_poison_upgrade_07_desc": "- 当[enemy]敌人[]被[poison]中毒[]杀死时\n会感染附近的其他敌人",
+	
+	//Curse
+	"o_curse_upgrade_name": "诅咒",
+	
+	"o_curse_upgrade_01_desc": "- 你的攻击有{0}几率施加[curse]诅咒[]效果\n[stats]'诅咒 - 持续结束后造成{1}点伤害'[]",
+	"o_curse_upgrade_02_desc": "- 你的[curse]诅咒传播速度[]增加{0}",
+	"o_curse_upgrade_03_desc": "- 当你受到[enemy]伤害[]或触发[stats_dc]闪避[]时\n会对附近所有[enemy]敌人[]施加[curse]诅咒[]",
+	"o_curse_upgrade_04_desc": "- 你的[curse]诅咒几率[]增加{0}\n- 你的[curse]诅咒传播速度[]增加{1}",
+	"o_curse_upgrade_05_desc": "- 受[curse]诅咒[]影响的敌人额外承受{0}伤害",
+	"o_curse_upgrade_06_desc": "- 你的[curse]诅咒几率[]增加{0}\n- 你的[curse]诅咒传播速度[]增加{1}",
+	"o_curse_upgrade_07_desc": "- 当你[enemy]击杀[]一个[curse]被诅咒敌人[]时\n他们会爆炸并对范围内敌人造成[curse]诅咒伤害[]",
+	
+	//Lightning
+	"o_lightning_upgrade_name": "闪电",
+	
+	"o_lightning_upgrade_01_desc": "- 当你的射击命中[enemy]敌人[]时\n有{0}几率召唤一道[lightning]闪电[]",
+	"o_lightning_upgrade_02_desc": "- 你的[lightning]闪电触发几率[]增加{0}\n- 你的[lightning]闪电伤害[]增加{1}",
+	"o_lightning_upgrade_03_desc": "- 你的[lightning]闪电触发几率[]增加{0}\n- 你的[lightning]闪电伤害[]增加{1}",
+	"o_lightning_upgrade_04_desc": "- 你的[lightning]闪电[]可以造成[stats_cd]暴击[]",
+	"o_lightning_upgrade_05_desc": "- 你的[lightning]闪电[]会优先攻击最近的[enemy]敌人[]",
+	"o_lightning_upgrade_06_desc": "- 你的[lightning]闪电触发几率[]增加{0}\n- 你的[lightning]闪电伤害[]增加{1}",
+	"o_lightning_upgrade_07_desc": "- 你的[lightning]闪电[]会造成范围伤害",
+	
+	//Star
+	"o_star_upgrade_name": "星辰盟友",
+	
+	"o_star_upgrade_01_desc": "- 现在及每{0}波次会召唤一个[star]星辰盟友[]\n它也会发射子弹\n[stats]'距离下次召唤:{1}波'[]",
+	"o_star_upgrade_02_desc": "- 你的[star]星辰射击[]伤害增加{0}",
+	"o_star_upgrade_03_desc": "- 你的[star]星辰射击[]伤害增加{0}",
+	"o_star_upgrade_04_desc": "- 你的[star]星辰射击[]伤害增加{0}",
+	"o_star_upgrade_05_desc": "- 你的[star]星辰射击[]会造成范围伤害",
+	"o_star_upgrade_06_desc": "- 你的[star]星辰射击[]伤害增加{0}\n- 你的[star]星辰盟友[]开火速率提高{1}",
+	"o_star_upgrade_07_desc": "- 你的[star]星辰射击[]的[stats_pp]穿透能力[]增加{0}",
+	
+	//Arrow
+	"o_arrow_upgrade_name": "箭矢",
+	
+	"o_arrow_upgrade_01_desc": "- 当你射击时\n有{0}几率召唤一支[arrow]箭矢[]",
+	"o_arrow_upgrade_02_desc": "- 你的[arrow]箭矢触发几率[]增加{0}\n- 你的[arrow]箭矢[]伤害增加{1}",
+	"o_arrow_upgrade_03_desc": "- 你的[arrow]箭矢[]可以造成[stats_cd]暴击伤害[]",
+	"o_arrow_upgrade_04_desc": "- 你的[arrow]箭矢触发几率[]增加{0}\n- 你的[arrow]箭矢[]伤害增加{1}",
+	"o_arrow_upgrade_05_desc": "- 击杀[enemy]敌人[]有几率触发[arrow]召唤箭矢[]",
+	"o_arrow_upgrade_06_desc": "- 你的[arrow]箭矢[]命中时会额外召唤{0}支箭矢",
+	"o_arrow_upgrade_07_desc": "- 你召唤的[arrow]箭矢[]数量翻倍",
+	
+	//Rares
+	"o_money_upgrade_name": "奶酪",
+	"o_money_upgrade_10_desc": "- 增加敌人掉落的[money]奶酪[]数量{0}",
+	
+	"o_penetration_upgrade_name": "穿透",
+	"o_penetration_upgrade_10_desc": "- 增加[stats_pp]子弹穿透[]{0}",
+	
+	"o_dodge_upgrade_name": "翎羽",
+	"o_dodge_upgrade_10_desc": "- 增加[stats_dc]闪避几率[]{0}",
+	
+	"o_all_damage_upgrade_name": "过载",
+	"o_all_damage_upgrade_10_desc": "- 增加[rainbow]所有伤害来源[]{0}",
+	
+	"o_heal_upgrade_name": "魔法治疗",
+	"o_heal_upgrade_10_desc": "- 完全恢复[stats_hp]生命值[]\n- 增加{0}点额外[stats_hp]生命值[]",
+	
+	"o_temp_damage_upgrade_name": "冲击 T",
+	"o_temp_damage_upgrade_10_desc": "- 在{1}波内增加[stats_dm]子弹伤害[]{0}\n[stats]'剩余波数:{2}'[]",
+	
+	"o_temp_firerate_upgrade_name": "疾速 T",
+	"o_temp_firerate_upgrade_10_desc": "- 在{1}波内增加[stats_fr]开火速率[]{0}\n[stats]'剩余波数:{2}'[]",
+		
+	"o_temp_ammo_upgrade_name": "弹药 T",
+	"o_temp_ammo_upgrade_10_desc": "- 在{0}波内拥有[rainbow]无限弹药[]\n[stats]'剩余波数:{1}'[]",
+	
+	"o_weapon_upgrade_name": "齿轮",
+	"o_weapon_upgrade_02_desc": "- 增加武器[rainbow]基础弹药[]{0}",
+	"o_weapon_upgrade_03_desc": "- 增加武器[rainbow]基础伤害[]{0}",
+	"o_weapon_upgrade_04_desc": "- 增加[rainbow]射击数量[]{0}",
+	"o_weapon_upgrade_05_desc": "- 增加[rainbow]射击数量[]{0}\n- 增加武器[rainbow]基础伤害[]{1}\n- 增加武器[rainbow]基础弹药[]{2}",
+	
+	"o_any_weapon_upgrade_desc": "[rainbow]- 新武器[]\n[stats_sn]射击数量:[]{0}\n[stats_dm]基础伤害:[]{1}\n[stats_fr]基础射速:[]{2}\n[stats_rt]基础装填时间:[]{3}\n[stats_am]基础弹药:[]{4}",
+	
+	"o_weapon_dual_shooter": "双枪射手",
+	"o_weapon_triple_shooter": "三枪射手",
+	
+	//Combined
+	"o_arrow_lightning_upgrade_name": "闪电箭矢",
+	"o_arrow_lightning_upgrade_10_desc": "- 你的[arrow]箭矢[]也能召唤[lightning]闪电[]",
+	
+	"o_arrow_poison_upgrade_name": "剧毒箭矢",
+	"o_arrow_poison_upgrade_10_desc": "- 你的[arrow]箭矢[]也能施加[poison]中毒[]",
+	
+	"o_arrow_curse_upgrade_name": "诅咒箭矢",
+	"o_arrow_curse_upgrade_10_desc": "- 你的[arrow]箭矢[]也能施加[curse]诅咒[]",
+	
+	"o_arrow_star_upgrade_name": "星辰箭矢",
+	"o_arrow_star_upgrade_10_desc": "- 你的[star]星辰盟友[]也能召唤[arrow]箭矢[]",
+	
+	"o_lightning_poison_upgrade_name": "闪电剧毒",
+	"o_lightning_poison_upgrade_10_desc": "- 你的[lightning]闪电[]也能施加[poison]中毒[]",
+	
+	"o_lightning_curse_upgrade_name": "闪电诅咒",
+	"o_lightning_curse_upgrade_10_desc": "- 你的[lightning]闪电[]也能施加[curse]诅咒[]",
+	
+	"o_star_lightning_upgrade_name": "闪电盟友",
+	"o_star_lightning_upgrade_10_desc": "- 你的[star]星辰盟友[]也能召唤[lightning]闪电[]",
+
+	"o_star_poison_upgrade_name": "剧毒盟友",
+	"o_star_poison_upgrade_10_desc": "- 你的[star]星辰盟友[]也能施加[poison]中毒[]",
+
+	"o_star_curse_upgrade_name": "诅咒盟友",
+	"o_star_curse_upgrade_10_desc": "- 你的[star]星辰盟友[]也能施加[curse]诅咒[]",	
+	
+	"o_curse_poison_combo_upgrade_name": "减益大师",
+	"o_curse_poison_combo_upgrade_10_desc": "- 你的[debuff]减益伤害[]增加{0}\n- 你的[debuff]减益速度[]增加{0}\n[stats]'减益指施加给敌人的效果,如中毒,诅咒等'[]",
+	
+	"o_temp_combo_upgrade_name": "无限临时",
+	"o_temp_combo_upgrade_10_desc": "- 你的[stats_uo]临时强化[]效果将永久持续",
+	
+	//Cursed
+	"o_cursed_glass_heart_upgrade_name": "玻璃之心",
+	"o_cursed_glass_heart_upgrade_00_desc": "- 你的[stats_hp]生命上限[]降至[red]{0}[]\n- 你的[stats_dm]子弹伤害[]加成提升{1}倍",
+	
+	"o_cursed_solid_critical_upgrade_name": "恒定暴击",
+	"o_cursed_solid_critical_upgrade_00_desc": "- 你的[stats_cd]暴击伤害[]固定为[red]{0}[]",
+	
+	"o_cursed_speed_transmutation_upgrade_name": "速度转化",
+	"o_cursed_speed_transmutation_upgrade_00_desc": "- 所有[stats_ms]移动速度[]加成[red]转化为[][stats_cc]暴击几率[]\n[stats]'当前转化值:{1}'[]",
+	
+	"o_cursed_silver_bullet_upgrade_name": "银弹",
+	"o_cursed_silver_bullet_upgrade_00_desc": "- [red]减少[]{0}点[stats_am]弹药上限[]\n- 增加[stats_pp]子弹穿透[]{1}\n- 增加[stats_dm]子弹伤害[]{2}",
+	
+	"o_cursed_cursed_cannons_upgrade_name": "诅咒炮台",
+	"o_cursed_cursed_cannons_upgrade_00_desc": "- [red]延长[]{0}倍[stats_rt]装填时间[]\n- 提升{1}倍[stats_sn]射击数量[]",
+	
+	//Others
+	"o_roll_upgrade_name": "刷新",
+	"o_roll_upgrade_01_desc": "- 刷新强化选项",
+	
+	// - - - - - - - - - - - - - Stats - - - - - - - - - - - - - //
+	"bonus_damage": "子弹伤害",
+	"bonus_shot_number": "射击数量",
+	"bonus_ammo": "弹药",
+	"bonus_reload_time": "装弹速度",
+	
+	"bonus_fire_rate": "开火速率",
+	
+	"bonus_critical_chance": "暴击率",
+	"bonus_critical_damage": "暴击伤害",
+	
+	"bonus_movement_speed": "移动速度",
+	"bonus_dodge_chance": "闪避概率",
+	
+	"bonus_lightning_chance": "闪电概率",
+	"bonus_lightning_damage": "闪电伤害",
+	
+	"bonus_star_damage": "星星伤害",
+	"bonus_star_fire_rate": "星星开火速率",
+	
+	"bonus_arrow_chance": "箭矢概率",
+	"bonus_arrow_damage": "箭矢伤害",
+	
+	"bonus_poison_chance": "中毒概率",
+	"bonus_poison_damage": "中毒伤害",
+	"bonus_poison_speed": "中毒速度",
+	
+	"bonus_curse_chance": "诅咒概率",
+	"bonus_curse_speed": "诅咒速度",
+	
+	"enemy_health_increase": "敌人血量",
+	"enemy_speed_increase": "敌人速度",
+	"enemy_slow_increase": "敌人减速效果",
+}
