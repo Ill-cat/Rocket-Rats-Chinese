@@ -362,7 +362,7 @@
 	"o_fire_rate_upgrade_02_desc": "- 增加[stats_rt]装填速度[]{0}",
 	"o_fire_rate_upgrade_03_desc": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}",
 	"o_fire_rate_upgrade_04_desc": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}",
-	"o_fire_rate_upgrade_05_desc": "- Increases [stats_fr]fire rate[] by {0}\n- Increases [stats_rt]reload speed[] by {1}",
+	"o_fire_rate_upgrade_05_desc": "- 增加[stats_fr]开火速率[]{0}\n- 增加[stats_rt]装填速度[]{1}",
 	"o_fire_rate_upgrade_06_desc": "- 装填后有{0}几率\n提升[stats_fr]开火速率[]{1}\n直到下次装填",
 	"o_fire_rate_upgrade_07_desc": "- 根据[stats_am]当前弹药[]量\n提升[stats_fr]开火速率[]{0}",
 	
